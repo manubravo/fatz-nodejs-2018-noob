@@ -1,0 +1,27 @@
+{
+  "name": "fatz-nodejs-2018-noob",
+  "version": "0.0.1",
+  "description": "Curso básico para las bases de JavaScript en el lado del servidor.",
+  "main": "npmTest1.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node npmTest1.js",
+    "start2": "node npmTest2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "español",
+    "noob",
+    "javascript",
+    "js",
+    "node",
+    "nodejs"
+  ],
+  "author": "Manu Bravo",
+  "license": "ISC"
+}
